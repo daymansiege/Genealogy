@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="Genealogy.Services.DataAccess.Global" Language="C#" %>

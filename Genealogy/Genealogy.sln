@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genealogy.Core", "Genealogy.Core\Genealogy.Core.csproj", "{B5346C25-510B-4AFD-83B4-28AF95FC7B31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genealogy.Clients.Web", "Genealogy.Clients.Web\Genealogy.Clients.Web.csproj", "{AFDC915B-C4E7-4810-8988-ED4B0DF557BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genealogy.Services.DataAccess", "Genealogy.Services.DataAccess\Genealogy.Services.DataAccess.csproj", "{3089A8CB-A6A5-4D49-ADAB-F3A6056E99D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genealogy.Data.MongoDB", "Genealogy.Data.MongoDB\Genealogy.Data.MongoDB.csproj", "{DE3F7FCA-A1D2-434C-BAB6-51CF828C7C7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5346C25-510B-4AFD-83B4-28AF95FC7B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5346C25-510B-4AFD-83B4-28AF95FC7B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5346C25-510B-4AFD-83B4-28AF95FC7B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5346C25-510B-4AFD-83B4-28AF95FC7B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFDC915B-C4E7-4810-8988-ED4B0DF557BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDC915B-C4E7-4810-8988-ED4B0DF557BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDC915B-C4E7-4810-8988-ED4B0DF557BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDC915B-C4E7-4810-8988-ED4B0DF557BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3089A8CB-A6A5-4D49-ADAB-F3A6056E99D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3089A8CB-A6A5-4D49-ADAB-F3A6056E99D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3089A8CB-A6A5-4D49-ADAB-F3A6056E99D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3089A8CB-A6A5-4D49-ADAB-F3A6056E99D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE3F7FCA-A1D2-434C-BAB6-51CF828C7C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3F7FCA-A1D2-434C-BAB6-51CF828C7C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE3F7FCA-A1D2-434C-BAB6-51CF828C7C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE3F7FCA-A1D2-434C-BAB6-51CF828C7C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
